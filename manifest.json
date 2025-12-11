@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Todo List Popup",
     "version": "1.0.1",
-    "description": "Simple todo list in chrome extension",
+    "description": "Simple todo list extension",
     "action": {
         "default_popup": "popup/popup.html",
         "default_icon": "images/icon.png"
